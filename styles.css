@@ -16,7 +16,7 @@ body {
   font-family: poppins;
 }
 
-.container {
+.container
   position: relative;
   width: 350px;
   height: 500px;
