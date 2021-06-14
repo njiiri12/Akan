@@ -6,18 +6,23 @@
   NJIIRI YVONNE
    
 ## AKAN WEBPAGE
-# Composed  By: Naphtali Makori
+
 ## NJIIRI,S Second Moringa School Project!
+
 This is a project assigned by Moringa School Software Development Class, creating a Web page for Akan by the end of the second week.
+
 ## Contributors
 So far there are no contributors, but with time we will get to have some!
+
 ## Description of the project's purpose.
 The purpose of starting this project Generate the use of Akan names.
+
 ## Technologies Used
 Technologies used in this project are:
 * Computer technology.
 * Wireless networking technology.
 * The internet connectivity technology.
+* 
 ## Installation Instructions.
 * Create a file named README.md in the root (based) folder of the Git repo.
 * Add any instructions or documentation that you want to share with others.
