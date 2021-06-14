@@ -1,7 +1,10 @@
 # Akan
 
 <img src="https://st.depositphotos.com/1003536/1276/v/600/depositphotos_12766529-stock-illustration-map-of-africa-with-vector.jpg"></img
-   NJIIRI YVONNE
+   
+ ## Project Author: 
+  NJIIRI YVONNE
+   
 ## AKAN WEBPAGE
 # Composed  By: Naphtali Makori
 ## NJIIRI,S Second Moringa School Project!
